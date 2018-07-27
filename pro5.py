@@ -1,4 +1,3 @@
-# chandra
 n1 = raw_input()
 n2 = raw_input()
 n3 = raw_input()
