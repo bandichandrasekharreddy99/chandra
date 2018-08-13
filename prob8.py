@@ -1,3 +1,3 @@
-n=int(input())
-k=(n*(n+1))/2
+i=int(input())
+k=(i*(i+1))/2
 print(k)
